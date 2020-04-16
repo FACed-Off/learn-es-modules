@@ -14,7 +14,7 @@ ES Modules are similar to Node's `require` syntax, but are a standardised part o
 
 Generally (for wider browser support) apps use a tool called a bundler to parse all the imports and "bundle" them into a single file that older browsers will understand. For ease of learning we won't be using a bundler.
 
-## Module scope
+## Module scope
 
 Modules help with JavaScript's global variable problem: variables defined in one module are not accessible in another. This means you can have 100 variables named `x`, as long as they're all in different files.
 
