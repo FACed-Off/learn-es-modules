@@ -1,0 +1,15 @@
+{
+  "name": "learn-es-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "servor workshop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^3.2.0"
+  }
+}
